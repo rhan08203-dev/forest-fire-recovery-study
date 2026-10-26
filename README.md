@@ -14,6 +14,17 @@ This research examines the relative states of remotely estimated vegetation gree
 - [Model and index technical manual](model_and_index_manual.md)
 - [Full code and reproducibility evidence — PDF](forest_v5_code_and_evidence.pdf)
 
+## English and Chinese–English editions
+
+- [Complete English report — PDF](forest_v5_full_report_EN.pdf)
+- [Editable English report — Word](forest_v5_full_report_EN.docx)
+- [Chinese–English parallel report — PDF, Chinese left / English right](forest_v5_full_report_ZH_EN.pdf)
+- [Curves for all 81 fires — English labels](forest_v5_all_case_curves_EN.pdf)
+- [Translation source, alignment and preservation checks](forest_v5_translation_sources.zip)
+- [SHA-256 checksums for the English additions](SHA256SUMS_EN.txt)
+
+The full English translation follows the Chinese report section by section, including its formulas, numerical results, references, contribution statement and limitations. Both reports have 26 pages; the parallel edition places the corresponding pages side by side. English table values and all 1,914 plotted observation/prediction records were checked against the original and are unchanged. Translation and English figure labels were prepared by ChatGPT at the author's request. The original research archive in Releases remains unchanged.
+
 ## Full data and executable code
 
 Download **forest_v5_reproducible_research.zip** from the repository's **Releases** section. This is the complete research archive, with the original internal directory structure preserved. Downloading only the repository's automatically generated source-code ZIP does not include the release attachment.
